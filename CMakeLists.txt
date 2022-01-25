@@ -11,6 +11,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 
 add_executable("${PROJECT_NAME}" var5_lab6.cpp 
+					inc/functions.hpp
+
+					src/functions.cpp
 
 )
 																  
